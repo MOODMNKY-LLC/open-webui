@@ -33,7 +33,12 @@ export const SUPPORTED_FILE_TYPE = [
 	'audio/mpeg',
 	'audio/wav',
 	'audio/ogg',
-	'audio/x-m4a'
+	'audio/x-m4a',
+	'image/gif',
+	'image/webp',
+	'image/jpeg',
+	'image/png',
+	'image/svg+xml'
 ];
 
 export const SUPPORTED_FILE_EXTENSIONS = [
